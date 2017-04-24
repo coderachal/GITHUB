@@ -1,0 +1,14 @@
+{
+	"file": "https://github.com/coderachal/GITHUB/blob/master/MAE.csv",
+	"name": "MAE",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Genes" },
+		{ "type": "integer", "index": 21, "name": "Total" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 20 }
+	]
+}
