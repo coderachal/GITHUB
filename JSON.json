@@ -1,5 +1,5 @@
 {
-	"file": "GITHUB/MAE.csv",
+	"file": "https://raw.githubusercontent.com/coderachal/GITHUB/master/MAE.csv",
 	"name": "MAE",
 	"header": 0,
 	"separator": ";",
